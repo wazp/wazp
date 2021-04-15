@@ -1,5 +1,4 @@
-### I'm Patrick.
-Find me on [![Twitter][1.2]][1], and [![LinkedIn][2.2]][2].
+### I'm Patrick. [![Twitter][1.2]][1] [![LinkedIn][2.2]][2]
 
 Working as a Tech Lead for the Frontenders at https://www.nansen.com/ and specializing in everything front end; HTML, CSS, Javascript, NodeJS. This includes most current frameworks like Vue and React (absolutely in that order!)
 
