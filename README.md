@@ -1,5 +1,5 @@
 ### I'm Patrick.
-https://img.shields.io/twitter/follow/wazp?style=social
+![Twitter Follow](https://img.shields.io/twitter/follow/wazp?style=social)
 
 Working as a Tech Lead for the Frontenders at https://www.nansen.com/ and specializing in everything front end; HTML, CSS, Javascript, NodeJS. This includes most current frameworks like Vue and React (absolutely in that order!)
 
