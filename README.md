@@ -1,5 +1,5 @@
 ### I'm Patrick.
-![Twitter Follow](https://img.shields.io/twitter/follow/wazp?style=social)
+Find me on [![Twitter][1.2]][1], and [![LinkedIn][2.2]][2].
 
 Working as a Tech Lead for the Frontenders at https://www.nansen.com/ and specializing in everything front end; HTML, CSS, Javascript, NodeJS. This includes most current frameworks like Vue and React (absolutely in that order!)
 
@@ -14,19 +14,9 @@ Working as a Tech Lead for the Frontenders at https://www.nansen.com/ and specia
 
 ▶ [...more blog articles](https://catalins.tech)
 
+<!-- Social icons -->
+[1]: https://twitter.com/wazp
+[2]: https://www.linkedin.com/in/patrickwaks/
+[1.2]: http://i.imgur.com/wWzX9uB.png
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 
-
-<!--
-**wazp/wazp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
