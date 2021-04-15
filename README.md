@@ -4,7 +4,12 @@
 Working as a Tech Lead for the Frontenders at https://www.nansen.com/ and specializing in everything front end; HTML, CSS, Javascript, NodeJS. This includes most current frameworks like Vue and React (absolutely in that order!)
 
 ---
+📘 Latest Blog Articles
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+▶ [...more blog articles](https://catalins.tech)
 
 
 
