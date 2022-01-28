@@ -12,7 +12,7 @@ Working as a Tech Lead for the Frontenders at https://www.nansen.com/ and specia
 - [Remote Development on Raspberry Pi with Visual Studio Code](https://trycatch.ninja/remote-development-with-visual-studio-code/)
 <!-- BLOG-POST-LIST:END -->
 
-▶ [...more blog articles](https://catalins.tech)
+▶ [...more blog articles](https://trycatch.ninja)
 
 <!-- Social icons -->
 [1]: https://twitter.com/wazp
