@@ -1,9 +1,16 @@
 ### I'm Patrick. <a rel="me" href="https://hachyderm.io/@wazp"><img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/mastodon_logo_icon_145082.png" width="16" /></a> [![LinkedIn][2.2]][2] [![Twitter][1.2]][1]
 
-Working as a Tech Lead for the Frontenders at https://www.nansen.com/ and specializing in everything front end; HTML, CSS, Javascript, NodeJS. This includes most current frameworks like Vue and React (absolutely in that order!)
+I'm a Frontend Technical Lead based in Chicago, working at https://www.nansen.com/ and specializing in everything front end.
+
+## 💻 What I do
+
+- Lead and mentor teams in building scalable, accessible, and maintainable frontends
+- Design systems, refactors, and performance audits are my happy place
+- Work closely with clients to bring their digital products to life
+- Navigate both legacy codebases and greenfield projects with equal enthusiasm
 
 ---
-📘 Latest Blog Articles
+## 📘 What I write
 
 <!-- BLOG-POST-LIST:START -->
 - [My Development Setup on Windows 10](https://trycatch.ninja/my-development-setup-on-windows/)
@@ -13,6 +20,31 @@ Working as a Tech Lead for the Frontenders at https://www.nansen.com/ and specia
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://trycatch.ninja)
+
+## 🧰 Tech I enjoy
+
+- **Languages**: JavaScript, TypeScript, HTML, CSS//LESS/SASS, some Go and Python when needed  
+- **Frameworks**: Vue, React, Nuxt, Next.js, Astro, Vite, Webpack et al
+- **Tools**: Docker, GitHub Actions, Figma, Contentful, Optimizely CMS, and a good terminal
+
+## 🧠 Hobbies & Tinkering
+
+Outside of work, you'll usually find me:
+
+- 🪵 Tinkering with electronics
+- 🤖 Building little projects with Raspberry Pi and Arduino
+- 🕹️ Gaming, reading sci-fi, or watching movies, building my homelab
+- 🧪 Experimenting with retro hardware (currently: restoring and debugging C64s)
+
+## 🚀 Recent Interests
+
+- Containerized AI tools like Ollama with frontends and RAG setups
+- Signal analysis on retro systems using oscilloscopes and logic analyzers
+
+## 📬 Let's connect
+
+I love collaborating, brainstorming weird side projects, and talking shop.  
+Feel free to check out my pinned repos or drop me a message.
 
 <!-- Social icons -->
 [1]: https://twitter.com/wazp
