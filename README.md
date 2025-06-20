@@ -9,7 +9,6 @@ I'm a Frontend Technical Lead based in Chicago, working at https://www.nansen.co
 - Work closely with clients to bring their digital products to life
 - Navigate both legacy codebases and greenfield projects with equal enthusiasm
 
----
 ## 📘 What I write
 
 <!-- BLOG-POST-LIST:START -->
